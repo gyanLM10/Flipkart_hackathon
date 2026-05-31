@@ -1,0 +1,12 @@
+# Ignore data directory (datasets, numpy arrays, submissions)
+data/
+
+# Ignore catboost logs and info
+catboost_info/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
